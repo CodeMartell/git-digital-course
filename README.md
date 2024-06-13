@@ -4,4 +4,4 @@
 
 * comando git push
 * comando git pull
-* cenoura feliz
+* comando git fetch
